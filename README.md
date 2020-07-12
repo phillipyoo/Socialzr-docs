@@ -53,7 +53,7 @@ This application has been designed for people of all ages, creeds, and colours. 
 
 ## User Stories
 
-
+![DFD](./docs/UserStories.jpeg "User Stories")
 
 ## Wireframes 
 
