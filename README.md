@@ -5,14 +5,16 @@ Stephanie Hales
 <br> 
 Phillip Yoo
 <br> 
-Dax Sholtz 
+Dax Scholtz 
 
 ## Purpose
+
 The purpose of this application is to allow people wanting to attend events of all kinds, an easier way to manage their yearly festive events. It aims to connect like minded people, provide local event listings which may not be listed on social media platforms, and share events we all come across. 
 
 ## Functionality / Features
 
 #### User Accounts
+
 There are two levels of accounts, Host, and Attendee. Users will be able to discover friends and like-minded event attendees. 
 <br> 
 
@@ -42,6 +44,7 @@ This application has been designed for people of all ages, creeds, and colours. 
 
 ## Data Flow Diagram
 
+![DFD](./docs/DataFlowDiagram.jpeg "Data Flow Diagram")
 
 
 ## Application Architecture Diagram
