@@ -117,3 +117,9 @@ The below wireframes were created using Figma Design
 ![CongratulationsPage](./docs/Congratulations.png)
 
 ## Trello Board
+
+![Trello Board](./docs/trello-1.png)
+![Trello Board](./docs/trello-2.png)
+![Trello Board](./docs/trello-3.png)
+![Trello Board](./docs/trello-4.png)
+![Trello Board](./docs/trello-5.png)
