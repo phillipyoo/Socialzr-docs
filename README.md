@@ -94,26 +94,26 @@ The below wireframes were created using Figma Design
 
 ![Mobile Wireframes](./docs/socialzr-mobile.png)
 
-![Profile Page](./docs/profile.png)
+![Profile Page](./docs/Profile.png)
 
-![Log In Page](./docs/log-in.png)
+![Log In Page](./docs/Log-in.png)
 
-![Sign UpPage](./docs/sign-up.png)
+![Sign UpPage](./docs/Sign-up.png)
 
 ![Main Page](./docs/main.png)
 
-![Hosting](./docs/hosting.png)
+![Hosting](./docs/Hosting.png)
 
-![Feed Page](./docs/feed.png)
+![Feed Page](./docs/Feed.png)
 
-![Rating Page](./docs/rating.png)
+![Rating Page](./docs/Rating.png)
 
-![Event Info Page](./docs/event-info.png)
+![Event Info Page](./docs/Event-info.png)
 
-![Ticketing Page](./docs/ticketing-page.png)
+![Ticketing Page](./docs/Ticketing-page.png)
 
-![Calendar Page](./docs/calendar.png)
+![Calendar Page](./docs/Calendar.png)
 
-![CongratulationsPage](./docs/congratulations.png)
+![CongratulationsPage](./docs/Congratulations.png)
 
 ## Trello Board
