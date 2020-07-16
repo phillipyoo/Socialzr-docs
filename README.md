@@ -65,7 +65,21 @@ This application has been designed for people of all ages, creeds, and colours. 
 
 ## Application Architecture Diagram
 
+![DFD](./docs/App-Architecture.png "App Architecture")
 
+| Number | Description |
+| ------ | ----------- |
+| 1 | Client - A socialzr user |
+| 2 | Browser - Where app is rendered and input commands are given |
+| 3 | React - Frontend UI of application |
+| 4 | Netlify - Client-side cloud hosting service on which React will run |
+| 5 | Custom API - the endpoint of react witch which the Express / Node Framework can interact. |
+| 6 | NodeJS - a Javascript runtime environtment to execute JS code on the server-side. Used to run Express |
+| 7 | ExpressJS - a web-application framework using Node to interact with the database |
+| 8 | Mongoose - an object-modeling application used to interact with MongoDB. Numbers 6 - 8 can be run locally or on a server in the cloud | 
+| 9 | The Database - Used to store persistent data from the application | 
+| 10 | Heroku - a cloud platform which will be used to host the database |
+| 11 | MongoDB - a document-oriented database used to make CRUD data persistent. | 
 
 ## User Stories
 
